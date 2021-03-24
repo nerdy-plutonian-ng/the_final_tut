@@ -1,0 +1,6 @@
+package com.pluto.the_final_tut
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
